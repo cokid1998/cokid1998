@@ -17,4 +17,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
 ![React-Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
 
-✍ [Blog](https://cokidblog.tistory.com/)
+✍ [Blog](https://velog.io/@cokid/posts)
