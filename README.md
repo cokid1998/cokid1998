@@ -8,11 +8,12 @@
 🛠 Tech Stack 🛠
 <Br/>
 <Br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)
-![React-Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E">
+<img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=#3178C6"> 
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=#61DAFB">
+<img src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=#000000">
+<img src="https://img.shields.io/badge/reactquery-black?style=for-the-badge&logo=reactquery&logoColor=#FF4154">
+<img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4">
+<!-- <img src="https://img.shields.io/badge/reacthookform-black?style=for-the-badge&logo=reacthookform&logoColor=#EC5990"> -->
 
 ✍ [Blog](https://velog.io/@cokid/posts)
